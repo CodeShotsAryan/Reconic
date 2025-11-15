@@ -62,7 +62,7 @@ Financial transactions flow through multiple systems, each recording slightly di
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/reconic.git
+git clone https://github.com/CodeShotsAryan/reconic.git
 cd reconic
 
 # Install dependencies
@@ -114,7 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Questions? Reach out via [GitHub Issues](https://github.com/your-username/reconic/issues)
+Questions? Reach out via [GitHub Issues](https://github.com/CodeShotsAryan/reconic/issues)
 
 ---
 
