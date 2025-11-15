@@ -18,7 +18,6 @@ class GatewayTransaction(Base):
     currency = Column(String, default="INR")
     status = Column(String)
     timestamp = Column(DateTime, nullable=False)
-
-    metadata = Column(JSON, nullable=True)
+    extra = Column(JSON, nullable=True)
 
     created_at = Column(DateTime, default=func.now())

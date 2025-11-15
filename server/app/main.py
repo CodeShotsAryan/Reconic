@@ -7,5 +7,4 @@ app = FastAPI(title="Reconic API")
 def root():
     return {"message": "Reconic Backend Running"}
 
-# Register routers
-app.include_router(ingest_router, prefix="/ingest")
+app.include_router(ingest_router)
