@@ -12,6 +12,15 @@
 </div>
 
 ---
+## 🗺️ Progress
+
+- [x] Project setup and architecture design
+- [...] Core matching engine
+- [ ] Data ingestion layer
+- [ ] WebSocket alerts
+- [ ] Dashboard UI
+- [ ] Test coverage
+- [ ] Documentation
 
 ## 📋 About
 
@@ -82,15 +91,6 @@ reconic/
 
 ---
 
-## 🗺️ Roadmap
-
-- [x] Project setup and architecture design
-- [ ] Core matching engine
-- [ ] Data ingestion layer
-- [ ] WebSocket alerts
-- [ ] Dashboard UI
-- [ ] Test coverage
-- [ ] Documentation
 
 ---
 
